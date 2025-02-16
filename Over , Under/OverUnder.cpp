@@ -2,14 +2,6 @@
 #include <ctime>
 #include <cstdlib>
 
-// black jack game vs the dealer (computer)
-// Cℋ
-
-void BJFunc()
-{
-	// this is useless
-
-}
 
 int main()
 {
